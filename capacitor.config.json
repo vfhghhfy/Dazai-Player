@@ -1,0 +1,6 @@
+{
+  "appId": "com.dazai.music",
+  "appName": "Dazai Player",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
